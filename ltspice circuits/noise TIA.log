@@ -1,0 +1,22 @@
+LTspice 24.1.4 for Windows
+Circuit: E:\2025 Workshop Opto\noise TIA.net
+Start Time: Mon Mar 24 14:55:19 2025
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Instance "u1:M5": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M6": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M1": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M2": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M3": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M4": Length shorter than recommended for a level 2 MOSFET.
+.step 
+Total elapsed time: 0.776 seconds.
+
+Files loaded:
+E:\2025 Workshop Opto\noise TIA.net
+C:\Users\CAP\AppData\Local\LTspice\lib\cmp\standard.jft
+C:\Users\CAP\AppData\Local\LTspice\lib\sub\ADI.lib
+
